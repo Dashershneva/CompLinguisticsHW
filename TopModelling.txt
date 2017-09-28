@@ -1,0 +1,197 @@
+///Текстовая коллекция 4en
+///Униграммы со стандартными параметрами, как в исходном коде:
+
+NMF top terms:
+Topic 0:
+know, didn, bad, guys, million, doing, lot, tough, thing, israel
+Topic 1:
+going, happen, wall, care, change, make, build, rid, folks, strong
+Topic 2:
+thank, everybody, honor, okay, trump, appreciate, wow, nice, gentlemen, ladies
+Topic 3:
+don, care, anymore, time, understand, talk, anybody, use, really, worry
+Topic 4:
+people, 000, lot, smart, million, come, thousands, work, stupid, incredible
+Topic 5:
+great, make, america, deal, deals, strong, company, really, time, safe
+Topic 6:
+want, didn, come, really, say, press, tell, talk, okay, bring
+Topic 7:
+think, actually, did, amazing, maybe, really, debate, nice, spent, thing
+Topic 8:
+said, trump, did, run, didn, won, believe, oh, donald, guy
+Topic 9:
+ve, got, seen, time, incredible, years, worst, stop, smart, long
+Topic 10:
+money, lot, million, millions, self, campaign, funding, dollars, spend, raise
+Topic 11:
+like, thing, trump, mean, big, press, guy, day, way, didn
+Topic 12:
+ll, say, tell, won, run, maybe, tax, let, oh, okay
+Topic 13:
+win, iowa, anymore, winning, won, military, wisconsin, isis, knock, beat
+Topic 14:
+trade, jobs, china, mexico, billion, bring, deals, wall, world, japan
+Topic 15:
+right, thing, okay, did, way, got, nice, names, job, things
+Topic 16:
+country, need, immigration, president, make, bring, things, come, kind, clinton
+Topic 17:
+love, care, thousands, hispanics, iowa, amazing, trump, way, remember, guys
+Topic 18:
+good, look, doing, really, mean, job, bad, things, better, way
+Topic 19:
+just, came, poll, big, ago, hillary, incredible, amazing, let, mean
+
+LDA top terms:
+Topic 0:
+like, day, amazing, tough, unbelievable, florida, cruz, indiana, ted, governor
+Topic 1:
+going, win, happen, country, tell, let, folks, bring, good, guys
+Topic 2:
+right, got, pay, use, way, trump, just, wanted, know, building
+Topic 3:
+know, don, said, like, people, say, want, didn, think, 000
+Topic 4:
+wall, time, hillary, clinton, went, long, called, history, won, greatest
+Topic 5:
+want, money, love, people, thank, care, don, new, come, place
+Topic 6:
+people, ll, know, said, great, just, think, going, ve, really
+Topic 7:
+real, goes, hundreds, sign, 11, prisoners, hours, obamacare, billions, heard
+Topic 8:
+going, probably, country, talk, immigration, anymore, end, started, things, stop
+Topic 9:
+came, states, united, second, worst, companies, leave, amendment, leading, yesterday
+Topic 10:
+obama, problem, president, leaders, gave, given, credit, percent, 150, terrorism
+Topic 11:
+mexico, tax, leaving, moving, ben, largest, plant, bringing, ford, carson
+Topic 12:
+need, american, veterans, support, running, world, common, understand, nation, administration
+Topic 13:
+terrible, total, worse, disaster, happening, people, dishonest, super, doctor, rigged
+Topic 14:
+israel, middle, iraq, treated, killed, east, wasn, taking, negative, turned
+Topic 15:
+great, make, country, america, people, build, trump, job, saw, kind
+Topic 16:
+trade, big, look, jobs, year, important, china, ve, smart, left
+Topic 17:
+talking, doing, china, story, south, japan, protect, supposed, friend, told
+Topic 18:
+people, number, believe, iowa, better, 50, far, happy, knows, groups
+Topic 19:
+ve, deal, think, seen, remember, polls, special, iran, friends, party
+
+/// Затем использовались биграммы:
+
+NMF top terms:
+Topic 0:
+don know, know doing, know don, know going, know ve, know happening, know think, really don, know know, just don
+Topic 1:
+united states, president obama, states going, american people, president united, mexican government, iran deal, donald trump, september 11th, trillions dollars
+Topic 2:
+hillary clinton, radical islam, clinton campaign, radical islamic, say words, burden hillary, clinton tell, secretary state, islamic terrorism, words radical
+Topic 3:
+don want, want money, said don, want tell, want know, want don, want want, want people, don need, money don
+Topic 4:
+make america, america great, great going, right thing, ladies gentlemen, doing know, months ago, want make, white house, going crazy
+Topic 5:
+ve seen, illegal immigration, seen like, like ve, ships ve, los angeles, know ve, mean ve, common core, happened country
+Topic 6:
+ve got, got smart, say ve, got ve, got stop, politically correct, mean ve, nice guy, got make, people ve
+Topic 7:
+going happen, happen going, happen anymore, people come, good going, going let, just going, things going, going come, illegal immigrants
+Topic 8:
+think going, don think, going great, going use, going really, going think, going doing, new york, going going, iowa think
+Topic 9:
+going win, win going, going going, said going, win win, don win, say oh, win just, going knock, going start
+Topic 10:
+years ago, seven years, build wall, 15 years, 12 years, long time, 000 miles, 20 years, number years, everybody wanted
+Topic 11:
+going make, make country, country great, make great, trade deals, social security, country rich, lot money, going bring, country strong
+Topic 12:
+second amendment, going care, common core, going protect, just remember, know know, man great, lot things, care vets, amendment going
+Topic 13:
+didn want, said oh, want credit, saudi arabia, politically correct, good things, don forget, don care, didn work, million people
+Topic 14:
+ll tell, know ll, tell going, don like, radical islam, 000 people, millions dollars, lot money, going build, elected president
+Topic 15:
+thank thank, thank everybody, everybody thank, want thank, love thank, great honor, love love, long time, really amazing, okay thank
+Topic 16:
+new hampshire, south carolina, just came, 000 people, leading big, don care, poll just, iowa new, going stop, great people
+Topic 17:
+foreign policy, middle east, lot money, president obama, nuclear weapons, american people, destabilize middle, cold war, long time, total disaster
+Topic 18:
+little bit, millions millions, millions dollars, donald trump, weeks ago, think good, don think, say going, south korea, didn know
+Topic 19:
+people don, lot people, don like, don think, know doing, don understand, know know, want thank, know people, people lot
+
+LDA top terms:
+Topic 0:
+going let, thousands people, say going, right know, great deal, just like, way going, people love, great deals, going tell
+Topic 1:
+ve seen, lot people, make country, south carolina, country great, south korea, social security, people country, ve heard, thousands thousands
+Topic 2:
+united states, going come, don like, come country, great great, everybody agrees, know talking, health care, come going, manufacturing jobs
+Topic 3:
+don win, going care, country going, 150 billion, bring jobs, things going, going start, going change, iran deal, ve taken
+Topic 4:
+don think, middle east, people going, said don, nuclear weapons, nice person, smart people, know think, said think, days ago
+Topic 5:
+make america, america great, going bring, second amendment, going make, special interests, jobs going, love love, great going, money going
+Topic 6:
+period time, billion year, trade deficit, just said, billions dollars, going use, don really, going cost, let just, just tell
+Topic 7:
+illegal immigration, president obama, going rid, art deal, think ll, los angeles, going things, think great, didn talk, global warming
+Topic 8:
+going going, didn want, make great, people like, said know, going run, carl icahn, good thing, different things, good people
+Topic 9:
+new hampshire, millions dollars, weeks ago, great company, people people, want tell, going stop, look going, doing great, thing going
+Topic 10:
+hillary clinton, years ago, know people, radical islam, let happen, going able, said let, built great, know want, want use
+Topic 11:
+ll tell, want thank, common sense, ted cruz, islamic terrorism, nice guy, million million, want bring, ve won, big problem
+Topic 12:
+know going, build wall, great people, going build, going pay, just want, ll say, people want, know know, don need
+Topic 13:
+make deal, 50 million, super pacs, going really, really great, okay going, club growth, merry christmas, don don, just little
+Topic 14:
+going happen, think going, going make, know doing, going say, happen going, let tell, happen anymore, going work, don forget
+Topic 15:
+don want, people don, going great, trade deals, thank thank, want money, foreign policy, thank everybody, self funding, great guy
+Topic 16:
+didn know, great job, really good, radical islamic, free trade, good job, run president, did great, bad things, win iowa
+Topic 17:
+don know, lot money, donald trump, little bit, 000 people, new york, mr trump, said oh, don care, know don
+Topic 18:
+said going, long time, people know, million people, people come, white house, people said, said ll, believe going, know ll
+Topic 19:
+ve got, going win, know ve, people say, just came, win going, common core, want people, know lot, said said
+
+//Далее изменялись параметры max_df и min_df:
+При увеличении параметра max_df понятность тематики текста (по моему субъективному мнению) немного ухудшалась.
+Например, для Topic 16:
+max_df = 1 min_df = 1
+NMF: ll bring, raise hands, people employ, failing support, gathering failing, enforcement political, amazing big, big victory, intimidation radical, persecution intimidation
+LDA: pay price, powerful president, rough stuff, saved article, 10 topics, lorne michaels, nervous nervous, meeting lorne, book hard, hard hitting
+max_df = 3 min_df = 1
+NMF: integrity president, lacks temperament, service agent, stated lacks, times stress, stress stated, seen pressure, pressure times, agent seen, temperament integrity
+LDA: john deere, really hard, ve known, week said, vice president, remember remember, debate think, wall china, polled agreed, et cetera
+max_df = 5 min_df = 1
+NMF: anchor baby, term anchor, things use, using term, sudden using, baby just, just week, thing did, illegal immigrant, did somebody
+LDA: law order, total lie, given lot, need new, want clean, great thing, ve tremendous, good good, win lot, want lot
+
+Изменение параметра min_df:
+Topic 16:
+max_df = 0.8, min_df = 3:
+NMF: ll tell, tell going, lot money, know ll, open society, going create, know saw, say oh, going build, don like
+LDA: going great, said going, long time, people know, foreign policy, people come, american people, want people, free trade, time magazine
+max_df = 0.8, min_df = 10:
+NMF: little bit, know ve, donald trump, weeks ago, millions dollars, people going, millions millions, didn know, just little, let tell
+LDA: people don, trade deals, country great, president obama, great guy, ve heard, free trade, love people, taken care, think ll 
+
+
+
